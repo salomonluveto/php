@@ -1,0 +1,8 @@
+basz des données : blog
+
+titre
+slug
+date
+introduction
+contenu
+auteur
